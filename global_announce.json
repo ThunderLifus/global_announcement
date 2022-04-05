@@ -2,7 +2,7 @@
      "name": "Global Announce",
      "description": "Portal Announcement",
      "key": "com.globalannounce.myapp",
-     "baseUrl": "https://raw.githubusercontent.com/ThunderLifus/global_announcement/main",
+     "baseUrl": "https://raw.githubusercontent.com/ThunderLifus/global_announcement/471a4090c63467d6e9797b922505c6d20cba6369",
      "vendor": {
          "name": "Nohaal",
          "url": "http://example.com"
