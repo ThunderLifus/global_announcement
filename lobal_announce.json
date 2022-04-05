@@ -1,0 +1,26 @@
+  {
+     "name": "Global Announce",
+     "description": "Portal Announcement",
+     "key": "com.globalannounce.myapp",
+     "baseUrl": "https://dev-apf.atlassian.net/",
+     "vendor": {
+         "name": "Nohaal",
+         "url": "http://example.com"
+     },
+     "authentication": {
+         "type": "none"
+     },
+     "apiVersion": 1,
+     "modules": {
+         "generalPages": [
+             {
+                 "url": "/global_announce.html",
+                 "key": "globalannounce",
+                 "location": "system.top.navigation.bar",
+                 "name": {
+                     "value": "Test de valeur"
+                 }
+             }
+         ]
+     }
+}
